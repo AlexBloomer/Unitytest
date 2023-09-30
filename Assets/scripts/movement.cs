@@ -14,6 +14,7 @@ public class movement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        // hellooooooo
     }
 
     // Update is called once per frame
